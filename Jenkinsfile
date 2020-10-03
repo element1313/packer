@@ -1,5 +1,5 @@
 node{
-  syage("Test"){
+  stage("Test"){
      println(BRANCH_NAME)
   }
   
